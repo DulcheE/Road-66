@@ -1,4 +1,4 @@
-﻿-- phpMyAdmin SQL Dump
+-- phpMyAdmin SQL Dump
 -- version 4.2.12deb2+deb8u2
 -- http://www.phpmyadmin.net
 --
@@ -30,30 +30,33 @@ USE `Motherroad`;
 
 DROP TABLE IF EXISTS `Users`;
 CREATE TABLE IF NOT EXISTS `Users` (
-  `ID-User` int(11) DEFAULT NULL,
-  `Email` varchar(60) NOT NULL DEFAULT '',
-  `Prenom` varchar(30) DEFAULT NULL,
-  `Nom` varchar(30) DEFAULT NULL,
-  `Pseudo` varchar(30) DEFAULT NULL,
-  `Adresse` varchar(100) NOT NULL,
-  `Ville` char(50) NOT NULL,
-  `CodePostal` varchar(5) NOT NULL,
-  `Telephone` varchar(8) NOT NULL,
-  `Presence` int(1) NOT NULL,
-  `Participation` int(1) NOT NULL,
-  `Fonction` int(2) NOT NULL,
-  `ConjointEmail` varchar(60) NOT NULL,
+  `ID_User` int(11) DEFAULT NULL COMMENT 'Id Utilisateur',
+  `Email` varchar(60) NOT NULL DEFAULT '' COMMENT '@email de l utilisateur',
+  `Password` varchar(40) COMMENT 'Mot de passe',
+  `Prenom` varchar(30) DEFAULT NULL COMMENT 'Prenom de l utilisateur',
+  `Nom` varchar(30) DEFAULT NULL COMMENT 'Nom de l utilisateur',
+  `Pseudo` varchar(30) DEFAULT NULL COMMENT 'Pseudo de l utilisateur',
+  `Adresse` varchar(100) NOT NULL COMMENT 'Adresse de l utilisateur',
+  `Ville` char(50) NOT NULL COMMENT 'Ville de l utilisateur',
+  `CodePostal` varchar(5) NOT NULL COMMENT 'Code Postal de l utilisateur', 
+  `Telephone` varchar(8) NOT NULL COMMENT 'Telephone de l utilisateur',
+  `ID_Presence` int(1) NOT NULL COMMENT 'Vous êtes la pour',
+  `ID_Participer` int(1) NOT NULL COMMENT 'Vous participer à l aventure',
+  `ID_Fonction` int(2) NOT NULL COMMENT 'Fonction de l utilisateur ',
+  `ConjointEmail` varchar(60) NOT NULL COMMENT '@email de conjoint',
   `Photo` char(100) NOT NULL COMMENT 'trombinoscope',
-  `Droit` int(1) NOT NULL
+  `ID_Vehicule` int(1) NOT NULL COMMENT 'Type de Vehicule',	
+  `Id_Droit` int(1) NOT NULL COMMENT 'droit speciaux'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COMMENT='Gestion des Users';
 
 --
 -- Contenu de la table `Users`
 --
 
-INSERT INTO `Users` (`ID-User`, `Email`, `Prenom`, `Nom`,`Pseudo`,`Adresse`, `Ville`, `CodePostal`, `Telephone`, `Presence`, `Participation`,`Fonction`, `ConjointEmail`, `Photo`,`Droit`) VALUES
-(1, 'marc.dulche@numericable.fr', 'Marc', 'Dulche','Sunspider', '17 Rue Maurice Barres', 'Plaisir', '78370', '0651390096', 2, 2, 1, 'Jacqueline.dumarquez@numericable.fr', '',1),
-(2, 'eddy.dulche@free.fr', 'Eddy', 'Dulche','', '17 Rue Maurice Barres', 'Plaisir', '78370', '0651157029', 1, 1, 1, '', '',1);
+INSERT INTO `Users` (`ID_User`, `Email`, `Password`, `Prenom`, `Nom`,`Pseudo`,`Adresse`, `Ville`, `CodePostal`, `Telephone`, `ID_Presence`, `ID_Participer`,`ID_Fonction`, `ConjointEmail`, `Photo`, `ID_Vehicule`, `ID_Droit`) VALUES
+(1, 'marc.dulche@numericable.fr', '98b66c661624337f88c28c6f7b1137e0', 'Marc', 'Dulche','Sunspider', '17 Rue Maurice Barres', 'Plaisir', '78370', '0651390096', 2, 2, 1, 'jacqueline.dumarquez@numericable.fr', '', 1,1),
+(1, 'jacqueline.dumarquez@numericable.fr', 'dc647eb65e6711e155375218212b3964', 'Jacqueline', 'Dumarquez','Pepette', '17 Rue Maurice Barres', 'Plaisir', '78370', '0651390096', 2, 2, 1, 'marc.dulche@numericable.fr', '', 1,1),
+(3, 'eddy.dulche@free.fr', 'dc647eb65e6711e155375218212b3964', 'Eddy', 'Dulche','', '17 Rue Maurice Barres', 'Plaisir', '78370', '0651157029', 1, 1, 1, '', '', 0,1);
 
 -- --------------------------------------------------------
 
@@ -63,7 +66,7 @@ INSERT INTO `Users` (`ID-User`, `Email`, `Prenom`, `Nom`,`Pseudo`,`Adresse`, `Vi
 
 DROP TABLE IF EXISTS `Participer`;
 CREATE TABLE IF NOT EXISTS `Participer` (
-`ID` int(1) NOT NULL COMMENT 'Id Participer',
+`ID_Participer` int(1) NOT NULL COMMENT 'Id Participer',
   `Libelle` char(100) NOT NULL
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
 
@@ -71,7 +74,7 @@ CREATE TABLE IF NOT EXISTS `Participer` (
 -- Contenu de la table `Participer`
 --
 
-INSERT INTO `Participer` (`ID`, `Libelle`) VALUES
+INSERT INTO `Participer` (`ID_Participer`, `Libelle`) VALUES
 (1, 'Seul'),
 (2, 'Avec votre conjoint'),
 (3, 'Avec un(e) ami(e)');
@@ -84,7 +87,7 @@ INSERT INTO `Participer` (`ID`, `Libelle`) VALUES
 
 DROP TABLE IF EXISTS `Presence`;
 CREATE TABLE IF NOT EXISTS `Presence` (
-`ID` int(1) NOT NULL COMMENT 'Id presence',
+`ID_Presence` int(1) NOT NULL COMMENT 'Id presence',
   `Libelle` char(60) NOT NULL COMMENT 'Libelle'
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
 
@@ -92,7 +95,7 @@ CREATE TABLE IF NOT EXISTS `Presence` (
 -- Contenu de la table `Presence`
 --
 
-INSERT INTO `Presence` (`ID`, `Libelle`) VALUES
+INSERT INTO `Presence` (`ID_Presence`, `Libelle`) VALUES
 (1, 'Juste nous suivre'),
 (2, 'Participer à l''aventure depuis Chicago'),
 (3, 'Participer à l''aventure depuis le Texas');
@@ -103,7 +106,7 @@ INSERT INTO `Presence` (`ID`, `Libelle`) VALUES
 
 DROP TABLE IF EXISTS `Fonction`;
 CREATE TABLE IF NOT EXISTS `Fonction` (
-`ID` int(2) NOT NULL COMMENT 'Id Fonction',
+`ID_Fonction` int(2) NOT NULL COMMENT 'Id Fonction',
   `Libelle` char(100) NOT NULL
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
 
@@ -111,7 +114,7 @@ CREATE TABLE IF NOT EXISTS `Fonction` (
 -- Contenu de la table `Fonction`
 --
 
-INSERT INTO `Fonction` (`ID`, `Libelle`) VALUES
+INSERT INTO `Fonction` (`ID_Fonction`, `Libelle`) VALUES
 (1, 'Organisateur'),
 (2, 'Adjoint'),
 (3, 'Secrétaire'),
@@ -121,12 +124,12 @@ INSERT INTO `Fonction` (`ID`, `Libelle`) VALUES
 (7, 'Visiteur');
 
 --
--- Structure de la table `Fonction`
+-- Structure de la table `Droits`
 --
 
 DROP TABLE IF EXISTS `Droits`;
 CREATE TABLE IF NOT EXISTS `Droits` (
-`ID` int(2) NOT NULL COMMENT 'Id Droits',
+`ID_Droit` int(2) NOT NULL COMMENT 'Id Droits',
   `Libelle` char(100) NOT NULL
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
 
@@ -134,10 +137,30 @@ CREATE TABLE IF NOT EXISTS `Droits` (
 -- Contenu de la table `Droits`
 --
 
-INSERT INTO `Droits` (`ID`, `Libelle`) VALUES
+INSERT INTO `Droits` (`ID_Droit`, `Libelle`) VALUES
 (1, 'Admin'),
 (2, 'SuperUser'),
 (3, 'Visiteur');
+
+--
+-- Structure de la table `Vehicules`
+--
+
+DROP TABLE IF EXISTS `Vehicules`;
+CREATE TABLE IF NOT EXISTS `Vehicules` (
+`ID_Vehicule` int(2) NOT NULL COMMENT 'Id Vehicule',
+  `Libelle` char(100) NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+
+--
+-- Contenu de la table `Vehicules`
+--
+
+INSERT INTO `Vehicules` (`ID_Vehicule`, `Libelle`) VALUES
+(0, 'Sans'),
+(1, 'Moto'),
+(2, 'Auto');
+
 -- --------------------------------------------------------
 
 
@@ -149,30 +172,35 @@ INSERT INTO `Droits` (`ID`, `Libelle`) VALUES
 -- Index pour la table `Users`
 --
 ALTER TABLE `Users`
- ADD PRIMARY KEY (`Email`), ADD UNIQUE KEY `ID-User` (`ID-User`);
+ ADD PRIMARY KEY (`Email`), ADD UNIQUE KEY `ID_User` (`ID_User`);
 
 --
 -- Index pour la table `Participer`
 --
 ALTER TABLE `Participer`
- ADD PRIMARY KEY (`ID`);
+ ADD PRIMARY KEY (`ID_Participer`);
 
 --
 -- Index pour la table `Presence`
 --
 ALTER TABLE `Presence`
- ADD PRIMARY KEY (`ID`);
+ ADD PRIMARY KEY (`ID_Presence`);
 
 --
 -- Index pour la table `Fonction`
 --
 ALTER TABLE `Fonction`
- ADD PRIMARY KEY (`ID`);
+ ADD PRIMARY KEY (`ID_Fonction`);
 
 -- Index pour la table `Droits`
 --
 ALTER TABLE `Droits`
- ADD PRIMARY KEY (`ID`);
+ ADD PRIMARY KEY (`ID_Droit`);
+
+-- Index pour la table `Vehicules`
+--
+ALTER TABLE `Vehicules`
+ ADD PRIMARY KEY (`ID_Vehicule`);
 
 --
 -- AUTO_INCREMENT pour les tables exportées
@@ -182,22 +210,28 @@ ALTER TABLE `Droits`
 -- AUTO_INCREMENT pour la table `Participer`
 --
 ALTER TABLE `Participer`
-MODIFY `ID` int(1) NOT NULL AUTO_INCREMENT COMMENT 'Id Participer',AUTO_INCREMENT=4;
+MODIFY `ID_Participer` int(1) NOT NULL AUTO_INCREMENT COMMENT 'Id Participer',AUTO_INCREMENT=4;
 --
 -- AUTO_INCREMENT pour la table `Presence`
 --
 ALTER TABLE `Presence`
-MODIFY `ID` int(1) NOT NULL AUTO_INCREMENT COMMENT 'Id presence',AUTO_INCREMENT=4;
+MODIFY `ID_Presence` int(1) NOT NULL AUTO_INCREMENT COMMENT 'Id presence',AUTO_INCREMENT=4;
 --
 -- AUTO_INCREMENT pour la table `Fonction`
 --
 ALTER TABLE `Fonction`
-MODIFY `ID` int(2) NOT NULL AUTO_INCREMENT COMMENT 'Id Fonction',AUTO_INCREMENT=8;
+MODIFY `ID_Fonction` int(2) NOT NULL AUTO_INCREMENT COMMENT 'Id Fonction',AUTO_INCREMENT=8;
 --
 -- AUTO_INCREMENT pour la table `Droits`
 --
 ALTER TABLE `Droits`
-MODIFY `ID` int(2) NOT NULL AUTO_INCREMENT COMMENT 'Id Droits',AUTO_INCREMENT=4;
+MODIFY `ID_Droit` int(2) NOT NULL AUTO_INCREMENT COMMENT 'Id Droits',AUTO_INCREMENT=4;
+--
+-- AUTO_INCREMENT pour la table `Vehicules`
+--
+ALTER TABLE `Vehicules`
+MODIFY `ID_Vehicule` int(2) NOT NULL AUTO_INCREMENT COMMENT 'Id Vehicules',AUTO_INCREMENT=3;
+
 
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
