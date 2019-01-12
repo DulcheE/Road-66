@@ -1,0 +1,7 @@
+<?php
+if(isset($_SESSION['membre'])){
+	echo '<img class="cadenasOuvert" src="images/cadenasOuvert32x32.png" alt="Grapefruit slice atop a pile of other slices" />';
+}else {
+	echo '<img class="cadenasFerme" src="images/cadenasFerme32x32.png" alt="Grapefruit slice atop a pile of other slices" />';
+}
+?> 

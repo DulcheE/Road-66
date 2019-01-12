@@ -1,0 +1,37 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://192.168.0.230" ftp_rootfolder="//var/www/html/php" exportTarget="FTP" domain="http://motherroad.ddns.net/php" resolutions="1x" timestamp="1516571950366">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="148965970" ref="index"/>
+    <file name="info.css" crc="4004171128" ref="info"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info"/>
+    <file name="museutils.js" crc="3803043152" ref="index:info"/>
+    <file name="whatinput.js" crc="86476730" ref="index:info"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:info"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:info"/>
+    <file name="require.js" crc="4157109226" ref="index:info"/>
+  </folder>
+  <file name="index.html" crc="4024519993" seo="true" mt="1516569991833" redirect="true"/>
+  <file name="info.html" crc="4092746157" seo="true" mt="1516570046947" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Page d'accueil" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U83" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="A-Gabarit" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="info" filename="info.html" muse_href="page:U105" master="U72">
+        <breakpoint uid="U95" maxwidth="960" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
