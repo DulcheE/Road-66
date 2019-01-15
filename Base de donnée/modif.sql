@@ -1,0 +1,1 @@
+CREATE TABLE `motherroad`.`Organisation` ( `users_id` INT(11) NOT NULL , `ordre` INT(2) NOT NULL , UNIQUE (`ordre`)) ENGINE = MyISAM;

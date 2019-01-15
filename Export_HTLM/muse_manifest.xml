@@ -1,0 +1,2677 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://motherroad.ddns.net" resolutions="1x" timestamp="1547592936808">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-gabarit.css" crc="4091161842" ref="texas:nouveau-mexique:arizona:illinois:californie:missouri:introduction:kansas:oklahoma"/>
+    <file name="master_a-gabarit.css" crc="74206530" ref="index:confirmation-d-inscription:l-organisation:ouverture_session:s-identifier:accueil:les-etats:les-choix:creer-un-compte:les-cartes:les-p-tits-mots:modifier-mon-compte:nous-suivre"/>
+    <file name="index.css" crc="3828742528" ref="index"/>
+    <file name="texas.css" crc="321143381" ref="texas"/>
+    <file name="confirmation-d-inscription.css" crc="3858616924" ref="confirmation-d-inscription"/>
+    <file name="l-organisation.css" crc="108266107" ref="l-organisation"/>
+    <file name="ouverture_session.css" crc="65344556" ref="ouverture_session"/>
+    <file name="nouveau-mexique.css" crc="4259557186" ref="nouveau-mexique"/>
+    <file name="s-identifier.css" crc="279933375" ref="s-identifier"/>
+    <file name="arizona.css" crc="4049399429" ref="arizona"/>
+    <file name="illinois.css" crc="3944289824" ref="illinois"/>
+    <file name="accueil.css" crc="4056817498" ref="accueil"/>
+    <file name="californie.css" crc="3802318526" ref="californie"/>
+    <file name="missouri.css" crc="3957008489" ref="missouri"/>
+    <file name="introduction.css" crc="4116188258" ref="introduction"/>
+    <file name="les-etats.css" crc="430646444" ref="les-etats"/>
+    <file name="les-choix.css" crc="171422818" ref="les-choix"/>
+    <file name="kansas.css" crc="254945596" ref="kansas"/>
+    <file name="creer-un-compte.css" crc="4093259652" ref="creer-un-compte"/>
+    <file name="les-cartes.css" crc="4232536210" ref="les-cartes"/>
+    <file name="les-p-tits-mots.css" crc="3832166585" ref="les-p-tits-mots"/>
+    <file name="oklahoma.css" crc="364842202" ref="oklahoma"/>
+    <file name="modifier-mon-compte.css" crc="167519998" ref="modifier-mon-compte"/>
+    <file name="nous-suivre.css" crc="108822094" ref="nous-suivre"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session"/>
+    <file name="museutils.js" crc="3803043152" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session"/>
+    <file name="whatinput.js" crc="86476730" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session"/>
+    <file name="museconfig.js" crc="380897831" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session"/>
+    <file name="jquery.watch.js" crc="99325471" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session"/>
+    <file name="webpro.js" crc="242022427" ref="accueil:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction:creer-un-compte:modifier-mon-compte:index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="accueil:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction:creer-un-compte:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="accueil:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction:creer-un-compte:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="accueil:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction:creer-un-compte:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session"/>
+    <file name="require.js" crc="4157109226" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session"/>
+    <file name="form_check.php" crc="147359589" ref="s-identifier"/>
+    <file name="form_throttle.php" crc="93986428" ref="s-identifier"/>
+    <file name="form_process.php" crc="3851993751" ref="s-identifier"/>
+    <file name="form-u7644.php" crc="3873738849" ref="s-identifier"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="creer-un-compte:modifier-mon-compte"/>
+    <file name="form-u7533.php" crc="3860751789" ref="creer-un-compte"/>
+    <file name="form-u8263.php" crc="127744458" ref="modifier-mon-compte"/>
+    <file name="form-u27548.php" crc="58105266" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-gabarit-favicon.ico" crc="4181119207" ref="accueil"/>
+    <file name="bandeau_drapeau_usa.png" crc="359848228" seo="true" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session">
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="les-p-tits-mots" alt=""/>
+      <caption webpage="s-identifier" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="creer-un-compte" alt=""/>
+      <caption webpage="modifier-mon-compte" alt=""/>
+      <caption webpage="ouverture_session" alt=""/>
+      <caption webpage="confirmation-d-inscription" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="les-cartes" alt=""/>
+      <caption webpage="les-choix" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="les-etats" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="nous-suivre" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="accueil:illinois">
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="titre.png" crc="482061052" seo="true" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:les-choix:les-p-tits-mots:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session">
+      <caption webpage="s-identifier" alt=""/>
+      <caption webpage="les-p-tits-mots" alt=""/>
+      <caption webpage="ouverture_session" alt=""/>
+      <caption webpage="confirmation-d-inscription" alt=""/>
+      <caption webpage="modifier-mon-compte" alt=""/>
+      <caption webpage="les-cartes" alt=""/>
+      <caption webpage="les-choix" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="les-etats" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nous-suivre" alt=""/>
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="logo_route_66.png" crc="466308648" seo="true" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:les-choix:les-p-tits-mots:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session">
+      <caption webpage="s-identifier" alt=""/>
+      <caption webpage="les-p-tits-mots" alt=""/>
+      <caption webpage="ouverture_session" alt=""/>
+      <caption webpage="confirmation-d-inscription" alt=""/>
+      <caption webpage="modifier-mon-compte" alt=""/>
+      <caption webpage="les-cartes" alt=""/>
+      <caption webpage="les-choix" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="les-etats" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nous-suivre" alt=""/>
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="u1790-4.png" crc="3906489068" ref="accueil"/>
+    <file name="road close.jpg" crc="4238215249" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="route66-trace.jpg" crc="3900125359" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="route66_begin.png" crc="4244390418" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="route66_end.png" crc="3955586955" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="harley davidson electra glide ultra limited bleu.png" crc="118858580" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="pick-up ford f350.png" crc="3809216994" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="grand canyon.jpg" crc="4235872874" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="las vegas.png" crc="4275945245" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="road close65x36.jpg" crc="3908786929" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="harley davidson electra glide ultra limited bleu58x45.png" crc="50826740" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="pick-up ford f35060x40.png" crc="502534332" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="grand canyon60x33.jpg" crc="140286366" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="las vegas54x41.png" crc="203759507" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="panneau bois.png" crc="187165824" seo="true" ref="accueil:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="panneau bois droite.png" crc="4191065524" seo="true" ref="accueil:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="suivant_easyrider.png" crc="4294132654" seo="true" ref="accueil">
+      <caption webpage="accueil" alt=""/>
+    </file>
+    <file name="license_icon-copyright.png" crc="150191545" seo="true" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session">
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="les-p-tits-mots" alt=""/>
+      <caption webpage="s-identifier" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="creer-un-compte" alt=""/>
+      <caption webpage="modifier-mon-compte" alt=""/>
+      <caption webpage="ouverture_session" alt=""/>
+      <caption webpage="confirmation-d-inscription" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="les-cartes" alt=""/>
+      <caption webpage="les-choix" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="les-etats" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="nous-suivre" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="sun-spider1.png" crc="4077570355" seo="true" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:les-choix:les-p-tits-mots:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session">
+      <caption webpage="s-identifier" alt=""/>
+      <caption webpage="les-p-tits-mots" alt=""/>
+      <caption webpage="ouverture_session" alt=""/>
+      <caption webpage="confirmation-d-inscription" alt=""/>
+      <caption webpage="modifier-mon-compte" alt=""/>
+      <caption webpage="les-cartes" alt=""/>
+      <caption webpage="les-choix" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="les-etats" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nous-suivre" alt=""/>
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="contact.png" crc="473648743" seo="true" ref="accueil:les-etats:les-cartes:nous-suivre:l-organisation:s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:les-choix:les-p-tits-mots:introduction:creer-un-compte:modifier-mon-compte:confirmation-d-inscription:index:ouverture_session">
+      <caption webpage="accueil" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="les-p-tits-mots" alt=""/>
+      <caption webpage="s-identifier" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="creer-un-compte" alt=""/>
+      <caption webpage="modifier-mon-compte" alt=""/>
+      <caption webpage="ouverture_session" alt=""/>
+      <caption webpage="confirmation-d-inscription" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="les-cartes" alt=""/>
+      <caption webpage="les-choix" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="les-etats" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="nous-suivre" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="u1796-4.png" crc="3798831195" ref="les-cartes"/>
+    <file name="attention.png" crc="166981964" seo="true" ref="les-cartes:nous-suivre:l-organisation:les-choix:les-p-tits-mots">
+      <caption webpage="les-cartes" alt=""/>
+      <caption webpage="les-choix" alt=""/>
+      <caption webpage="les-p-tits-mots" alt=""/>
+      <caption webpage="nous-suivre" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="travaux.gif" crc="40039970" seo="true" ref="les-cartes:nous-suivre:l-organisation:les-choix:les-p-tits-mots">
+      <caption webpage="les-cartes" alt=""/>
+      <caption webpage="les-choix" alt=""/>
+      <caption webpage="les-p-tits-mots" alt=""/>
+      <caption webpage="nous-suivre" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="u1799-4.png" crc="169052870" ref="nous-suivre"/>
+    <file name="u1793-4.png" crc="417186939" ref="l-organisation"/>
+    <file name="sun-spider64x64.png" crc="257606141" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="webmaster-at-work.png" crc="4141348986" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="adjoint.png" crc="4251876527" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="tresorier.png" crc="4074137345" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="secretaire.png" crc="4110513185" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="pepette.jpg" crc="4169881224" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="57bc8d465e961.png" crc="3914758412" seo="true" ref="l-organisation:nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="marcdulche.jpg" crc="361923280" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="touring.png" crc="3759974045" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="pickup oldtimer.png" crc="95276036" seo="true" ref="l-organisation">
+      <caption webpage="l-organisation" alt=""/>
+    </file>
+    <file name="u1802-4.png" crc="470607444" ref="s-identifier"/>
+    <file name="route-66_2-crop-u8618.jpg" crc="4241498231" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction:creer-un-compte:index"/>
+    <file name="route-66_1-crop-u8805.jpg" crc="3800257709" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="route-66_3-crop-u8638.jpg" crc="435809439" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="route-66_4-crop-u8658.jpg" crc="394381852" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="route-66_5-crop-u8678.jpg" crc="57407660" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="route-66_6-crop-u8698.jpg" crc="4040691667" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="route-66_7-crop-u8718.jpg" crc="4034435085" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="route-66_8-crop-u8738.jpg" crc="116127794" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="route-66_9-crop-u8758.jpg" crc="471300775" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="route-66_10-crop-u8778.jpg" crc="444608313" seo="true" ref="s-identifier">
+      <caption webpage="s-identifier" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="s-identifier:illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction:creer-un-compte:index"/>
+    <file name="b-gabarit-favicon.ico" crc="4181119207" ref="illinois"/>
+    <file name="titre2.png" crc="482061052" seo="true" ref="illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction">
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="u377-4.png" crc="13854439" ref="illinois"/>
+    <file name="seal_of_illinois.png" crc="4014832105" seo="true" ref="illinois:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="illinois_map.jpg" crc="3822599509" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant1-crop-u5410.jpg" crc="342252162" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant2-crop-u5541.jpg" crc="3797122768" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant3-crop-u5561.jpg" crc="4061622620" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant4-crop-u5581.jpg" crc="3861922687" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant5-crop-u5601.jpg" crc="3947898739" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant1.jpg" crc="4064835527" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant2.jpg" crc="146434671" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant3.jpg" crc="110053156" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant4.jpg" crc="4118675881" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="geant5.jpg" crc="34001952" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="art-institute-de-chicago-museum-crop-u5675.jpg" crc="191431451" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="lou-mitchells-crop-u5771.jpg" crc="3827997062" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="distance.png" crc="124151364" seo="true" ref="illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie">
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="57bc8a396cc5a.png" crc="3772354441" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="57bc8a5518397.png" crc="222698872" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="harley davidson electra glide ultra limited bleu2.png" crc="360794518" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="suivant_easyrider2.png" crc="311144462" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="harley davidson electra glide ultra limited rouge.png" crc="176718332" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="prison_break_season_1.png" crc="3878511064" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="the_blues_brothers.png" crc="3797235966" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="joliet_prison.jpg" crc="416946981" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="downtown_chicago.jpg" crc="124174762" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="chicagoland_speedway-crop-u5877.jpg" crc="146127332" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="joliet area historical museum-crop-u5980.jpg" crc="4233054273" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="route 66 speedway-crop-u6000.jpg" crc="120028032" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="dwight_il_-_gas_station-crop-u6034.jpg" crc="4107112911" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="dwight_il_java_stop1-crop-u6165.jpg" crc="4127014406" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="odell-standard_oil_station-crop-u6185.jpg" crc="52888657" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="road-closed-route-66-odell-crop-u6205.jpg" crc="227360566" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="village_of_odell_sign-crop-u6225.jpg" crc="534290079" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="dwight_il_-_gas_station-crop-u6042.jpg" crc="4096876255" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="dwight_il_java_stop1-crop-u6159.jpg" crc="4165800858" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="odell-standard_oil_station-crop-u6179.jpg" crc="283989976" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="road-closed-route-66-odell-crop-u6199.jpg" crc="174209882" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="village_of_odell_sign-crop-u6219.jpg" crc="426247830" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_inondation2-crop-u6387.jpg" crc="196579577" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_inondation1-crop-u6263.jpg" crc="3826382049" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_rue_principale-crop-u6467.jpg" crc="379875777" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_mural.jpg" crc="261369026" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_mural2-crop-u6427.jpg" crc="238817227" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_route66_museum-crop-u6447.jpg" crc="3995701511" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_inondation2-crop-u6393.jpg" crc="446901193" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_inondation1-crop-u6255.jpg" crc="25313164" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_rue_principale-crop-u6473.jpg" crc="445252295" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_mural2-crop-u6433.jpg" crc="3929481234" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="pontiac_route66_museum-crop-u6453.jpg" crc="279056913" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="lexington_memorylane.jpg" crc="3948569948" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="trace.png" crc="3921608078" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="13-hd-cvo-breakout-c79-w28.png" crc="162291394" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="57bc8ab8ef64c.png" crc="148097093" seo="true" ref="illinois">
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="panneau bois gauche.png" crc="470910558" seo="true" ref="illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction">
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="sun-spider12.png" crc="4077570355" seo="true" ref="illinois:missouri:kansas:oklahoma:texas:nouveau-mexique:arizona:californie:introduction">
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="missouri" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="kansas" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="californie" alt=""/>
+      <caption webpage="texas" alt=""/>
+      <caption webpage="illinois" alt=""/>
+    </file>
+    <file name="u401-4.png" crc="3870436002" ref="missouri"/>
+    <file name="seal_of_missouri.png" crc="438135474" seo="true" ref="missouri:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="map-of-missouri.jpg" crc="4055411344" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="mo_capital_flood_93.jpg" crc="41220246" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sioux1.jpg" crc="4198201565" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sioux2.png" crc="338880256" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="57bc8aa0e4b92.png" crc="4180125235" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="57bc8af3a3a04.png" crc="4073886236" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="cathedral_basilica_of_st__louis-crop-u9678.jpg" crc="366501615" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="st__louis_art_museum60x46.jpg" crc="451475192" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="eads_bridge_panorama_20090119-crop-u9781.jpg" crc="3788806525" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="st__louis_skyline_september_2008-crop-u9881.jpg" crc="193785156" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="lafayettesquarehouses-crop-u9801.jpg" crc="3921198575" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="st_louis_birdseye_map_1896-crop-u9901.jpg" crc="299061407" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="national-atlas-1970-1810-loupurchase-crop-u9821.jpg" crc="185384643" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="st_louis_night_expblend-crop-u9921.jpg" crc="3988315451" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="olympic_rings_without_rims_svg-crop-u9841.png" crc="97268046" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="stlouisarchnps60x46.jpg" crc="444584988" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="cathedral_basilica_of_st__louis-crop-u9672.jpg" crc="277580870" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="eads_bridge_panorama_20090119.jpg" crc="3916414213" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="lafayettesquarehouses-crop-u9795.jpg" crc="3800971765" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="national-atlas-1970-1810-loupurchase.jpg" crc="3766924147" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="olympic_rings_without_rims_svg.png" crc="3838427146" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="st__louis_art_museum-crop-u9855.jpg" crc="3844941514" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="st__louis_skyline_september_2008.jpg" crc="4152345221" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="st_louis_birdseye_map_1896.jpg" crc="252889635" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="st_louis_night_expblend-crop-u9915.jpg" crc="221461035" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="stlouisarchnps-crop-u9935.jpg" crc="76400837" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="route66 borne.jpg" crc="517166386" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sullivan train.jpg" crc="4103286261" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sullivan train1-crop-u10122.jpg" crc="3839926589" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sullivan-crop-u10142.jpg" crc="474407269" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sullivan_courthouse-crop-u10162.jpg" crc="77802426" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="route66 borne-crop-u10088.jpg" crc="4090420803" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sullivan train-crop-u10108.jpg" crc="53615650" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sullivan train1-crop-u10128.jpg" crc="428957022" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sullivan-crop-u10148.jpg" crc="506074991" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="sullivan_courthouse-crop-u10168.jpg" crc="232658847" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla_ maxresdefault-crop-u10204.jpg" crc="343678737" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla66-crop-u10324.jpg" crc="534963354" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla_sondershausen_wipper60x45.jpg" crc="258128008" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla-royalcanin-crop-u10364.jpg" crc="3997521321" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla hotel de ville-crop-u10394.jpg" crc="3968425911" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla_ maxresdefault-crop-u10196.jpg" crc="53009977" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla66-crop-u10318.jpg" crc="129402827" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla_sondershausen_wipper-crop-u10338.jpg" crc="3841389894" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla-royalcanin-crop-u10358.jpg" crc="4000866162" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="rolla hotel de ville.jpg" crc="55241819" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="lebanonmissouri_entrance_old-crop-u10421.jpg" crc="515606849" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="lebanon1-crop-u10542.jpg" crc="201239674" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="lebanon2.jpg" crc="3903627242" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="lebanon3.jpg" crc="384907609" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="lebanon4-crop-u10602.jpg" crc="115837806" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel12-crop-u10653.jpg" crc="4247546211" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel11-crop-u10844.jpg" crc="4173949919" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel10-crop-u10864.jpg" crc="3778989878" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel9-crop-u10884.jpg" crc="3855990157" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel8-crop-u10904.jpg" crc="520229713" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel7.jpg" crc="3770223064" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel6.jpg" crc="243645355" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel5.jpg" crc="3816120966" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel4.jpg" crc="4221056572" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourisnack-crop-u11004.jpg" crc="491805973" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel3.jpg" crc="4099854081" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissouristation.jpg" crc="108945845" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourimotel2-crop-u11064.jpg" crc="420497813" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissourihotel-crop-u11084.jpg" crc="444380996" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="springfieldmissouridannys-crop-u11104.jpg" crc="3936118312" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="joplin1-crop-u11140.jpg" crc="4212086500" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="joplin2.jpg" crc="386331338" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="joplin-tornado-crop-u11247.jpg" crc="340661623" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="joplin-tornado2.jpg" crc="3925715931" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="joplin-tornado6.jpg" crc="179270782" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="joplin-tornado5-crop-u11307.jpg" crc="4017952956" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="joplin-tornado4-crop-u11327.jpg" crc="4273454850" seo="true" ref="missouri">
+      <caption webpage="missouri" alt=""/>
+    </file>
+    <file name="u404-4.png" crc="3844858014" ref="kansas"/>
+    <file name="seal_of_kansas.png" crc="472223138" seo="true" ref="kansas:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="kansas_map.jpg" crc="4147969572" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="57bc8bc1391cf.png" crc="460147138" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="57bc8c38e4c87.png" crc="3962318792" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="cafe-on-the-route-baxter-springs-01-crop-u11786.jpg" crc="219838844" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="cars-on-the-route-galena-kansas-01-crop-u11898.jpg" crc="50550711" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="cars-on-the-route-galena-kansas-03-crop-u11918.jpg" crc="504780264" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="6954095815_4d78e5a340_b-crop-u11962.jpg" crc="235071822" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="baxter-springs-route66-kansas-01-crop-u11982.jpg" crc="4192046534" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="baxter-springs-route-66-visitor-center-9-crop-u12002.jpg" crc="34683054" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="ks_57_600-crop-u12066.jpg" crc="3947189583" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="tornade.jpg" crc="321132137" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="cafe-on-the-route-baxter-springs-01-crop-u11801.jpg" crc="4197559422" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="cars-on-the-route-galena-kansas-01-crop-u11904.jpg" crc="4022085828" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="cars-on-the-route-galena-kansas-03-crop-u11924.jpg" crc="4223938186" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="6954095815_4d78e5a340_b-crop-u11968.jpg" crc="245473450" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="baxter-springs-route66-kansas-01-crop-u11988.jpg" crc="207328318" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="baxter-springs-route-66-visitor-center-9-crop-u12008.jpg" crc="3924647744" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="ks_57_600-crop-u12072.jpg" crc="500573537" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="tornade-crop-u12092.jpg" crc="3883251424" seo="true" ref="kansas">
+      <caption webpage="kansas" alt=""/>
+    </file>
+    <file name="seal_of_oklahoma.png" crc="181847907" seo="true" ref="oklahoma:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="u2193-4.png" crc="3898758589" ref="oklahoma"/>
+    <file name="oklahoma_map.jpg" crc="23390325" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="57bc8cc9e8586.png" crc="3904129802" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="57bc8cebc1814.png" crc="4099452715" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="paleoamericains.jpg" crc="468897609" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="miami-1920-crop-u12328.jpg" crc="3855459563" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="miami-1948-crop-u12453.jpg" crc="500796766" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="miami-1959-crop-u12473.jpg" crc="4044778098" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="miami-now-crop-u12493.jpg" crc="368965076" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="bonnie-and-clyde-crop-u12545.jpg" crc="3847597885" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="old-gateway-miami-crop-u12585.jpg" crc="151818063" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="gateway-today-crop-u12565.jpg" crc="512259796" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="the-ribbon-road60x45.jpg" crc="4156074250" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="miami-1920-crop-u12337.jpg" crc="43426971" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="miami-1948-crop-u12447.jpg" crc="328304910" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="miami-1959-crop-u12467.jpg" crc="4129747426" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="miami-now-crop-u12487.jpg" crc="3936497650" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="bonnie-and-clyde.jpg" crc="4224446614" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="old-gateway-miami.jpg" crc="269444789" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="gateway-today-crop-u12559.jpg" crc="3979170813" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="the-ribbon-road-crop-u12599.jpg" crc="4133942280" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="lavinia.jpg" crc="3811151339" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="vinita-downtown-crop-u12630.jpg" crc="535421802" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="vinita-inn-crop-u12711.jpg" crc="498462618" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="vinita-park-hills-crop-u12731.jpg" crc="4149218855" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="vinita-park-hills-now-crop-u12751.jpg" crc="3814412232" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="lavinia-crop-u12850.jpg" crc="3759813416" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="vinita-downtown-crop-u12624.jpg" crc="4234599987" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="vinita-inn60x45.jpg" crc="404714805" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="vinita-park-hills-crop-u12737.jpg" crc="4089586354" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="vinita-park-hills-now-crop-u12757.jpg" crc="426032639" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa-crop-u13202.jpg" crc="4068854248" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tusla art deco-crop-u13020.jpg" crc="3886637389" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa cinema old-crop-u13163.jpg" crc="4103229774" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa cinema new-crop-u13143.jpg" crc="397693493" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa vickery phillips 66 service station-crop-u13000.jpg" crc="3948517498" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa route 66-crop-u12882.jpg" crc="4066390543" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="golden driller1.jpg" crc="3984559096" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="golden driller 2-crop-u13055.jpg" crc="4226414617" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa-crop-u13196.jpg" crc="388734126" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tusla art deco-crop-u13014.jpg" crc="397442971" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa cinema old-crop-u13157.jpg" crc="379371710" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa cinema new.jpg" crc="284062648" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa vickery phillips 66 service station-crop-u12994.jpg" crc="483593954" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tulsa route 66-crop-u12891.jpg" crc="4225720962" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="golden driller 2.jpg" crc="4211666001" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="sapulpa historic rock creek bridge, route 66-crop-u13235.jpg" crc="3771432628" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="sapulpa rock_creek_bridge-crop-u13288.jpg" crc="3815378207" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="cross-bones-crop-u13621.png" crc="3805349179" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="2015-harley-davidson-cvo-softail-deluxe.jpg" crc="471048274" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="2011-harley-davidson-flstse2cvosoftailconvertibled.jpg" crc="4221091908" seo="true" ref="oklahoma:californie">
+      <caption webpage="californie" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="edmond tornano1-crop-u13355.jpg" crc="419896128" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="edmond tornano260x45.jpg" crc="77107314" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="edmond tornano3-crop-u13482.jpg" crc="275310031" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tornado_alley_diagram_fr_svg-crop-u13512.png" crc="4216970768" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="edmond tornano1-crop-u13346.jpg" crc="162979748" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="edmond tornano2-crop-u13456.jpg" crc="4216875117" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="edmond tornano3-crop-u13476.jpg" crc="4288340903" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="tornado_alley_diagram_fr_svg-crop-u13506.png" crc="4293814468" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma city state-capitol-crop-u13537.jpg" crc="4234333552" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma-state-capitol-01-crop-u13689.jpg" crc="74846039" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma city-crop-u13732.jpg" crc="4073255536" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma-city-s-skydance-crop-u13752.jpg" crc="312467986" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma-cowboy-western-museum-crop-u13772.jpg" crc="67439783" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma city cowboy-museum-crop-u13809.jpg" crc="151552463" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma city milk-bottle-crop-u13829.jpg" crc="176357910" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma city state-capitol-crop-u13544.jpg" crc="180710438" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma-state-capitol-01-crop-u13695.jpg" crc="288076071" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma city-crop-u13738.jpg" crc="418343499" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma-city-s-skydance-crop-u13758.jpg" crc="3871129094" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma-cowboy-western-museum-crop-u13778.jpg" crc="3907182577" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma city cowboy-museum-crop-u13815.jpg" crc="4267465332" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="oklahoma city milk-bottle-crop-u13835.jpg" crc="4288910289" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="downtown-el-reno-crop-u13898.jpg" crc="3760852729" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno jackson-conoco-crop-u14027.jpg" crc="218069644" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno -pool-crop-u14084.jpg" crc="429031129" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno tornado160x45.jpg" crc="4070602593" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno avant-gas-crop-u14007.jpg" crc="70440848" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno hotel-elreno-crop-u14064.jpg" crc="4003788653" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno fort-reno-crop-u14113.jpg" crc="4209647955" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno tornado260x45.jpg" crc="3771930516" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="downtown-el-reno-crop-u13891.jpg" crc="4209260137" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno avant-gas-crop-u14001.jpg" crc="4137748664" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno jackson-conoco-crop-u14021.jpg" crc="535765994" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno hotel-elreno.jpg" crc="280443990" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno -pool.jpg" crc="291105255" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno fort-reno-crop-u14107.jpg" crc="382583595" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno tornado1-crop-u14142.jpg" crc="236334493" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="el reno tornado2-crop-u14162.jpg" crc="4273931207" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="calumet-view-crop-u14304.jpg" crc="126335974" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="calumet-maxres-crop-u14207.jpg" crc="460702997" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="calumet-view2-crop-u14324.jpg" crc="381824222" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-crop-u14392.jpg" crc="3786283877" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-_campus-crop-u14412.jpg" crc="3595312" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-bar_b_q-crop-u14432.jpg" crc="4029380586" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-oklahoma-7.jpg" crc="4187850241" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-oklahoma-ok-usa.jpg" crc="3938455387" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="calumet-view-crop-u14310.jpg" crc="58088218" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="calumet-view2-crop-u14330.jpg" crc="3917231216" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-_campus-crop-u14418.jpg" crc="110690050" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-oklahoma-7-crop-u14458.jpg" crc="3792623873" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="calumet-maxres-crop-u14198.jpg" crc="4048953853" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-crop-u14398.jpg" crc="472853216" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-bar_b_q-crop-u14438.jpg" crc="4227403935" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="weatherford-oklahoma-ok-usa-crop-u14478.jpg" crc="270000145" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinto - museum1-crop-u14675.jpg" crc="393706961" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinton-elvis1-crop-u14863.jpg" crc="528945013" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinton-elvis3.jpg" crc="47300683" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elk city160x45.jpg" crc="100620614" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elk city 3-crop-u14923.jpg" crc="4125275479" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinton - museum2-crop-u14843.jpg" crc="3861721813" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinton-elvis260x45.jpg" crc="179658797" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elk city timber-creek-crop-u14963.jpg" crc="3813686104" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elkcity2-crop-u15003.jpg" crc="362692639" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elk city farm-and-ranch-museum-crop-u14943.jpg" crc="92246801" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinto - museum1-crop-u14689.jpg" crc="4010168942" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinton - museum2-crop-u14837.jpg" crc="59077652" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinton-elvis1-crop-u14857.jpg" crc="125852752" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="clinton-elvis2-crop-u14877.jpg" crc="3989261969" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elk city timber-creek-crop-u14957.jpg" crc="3782927435" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elk city1-crop-u14977.jpg" crc="4007060405" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elkcity2-crop-u14997.jpg" crc="155573068" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elk city 3-crop-u14917.jpg" crc="478205536" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="elk city farm-and-ranch-museum-crop-u14937.jpg" crc="4116420931" seo="true" ref="oklahoma">
+      <caption webpage="oklahoma" alt=""/>
+    </file>
+    <file name="u2196-4.png" crc="27975136" ref="texas"/>
+    <file name="seal_of_texas.png" crc="488692194" seo="true" ref="texas:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="texas_map.jpg" crc="444765660" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="57bc8dadedcec.png" crc="183384181" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="57bc8de8c762d.png" crc="352511813" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_661x45.jpg" crc="533361608" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_1-crop-u15120.jpg" crc="3845065429" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_3-crop-u15266.jpg" crc="4246014523" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_5-crop-u15306.jpg" crc="3982748183" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_2-crop-u15246.jpg" crc="4106407085" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_4-crop-u15286.jpg" crc="492841653" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_6-crop-u15320.jpg" crc="466299181" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_5-crop-u15300.jpg" crc="13998578" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_1-crop-u15113.jpg" crc="3841840532" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_2.jpg" crc="373278503" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_3-crop-u15260.jpg" crc="536732724" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u-drop_inn_4-crop-u15280.jpg" crc="4050182008" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_1.jpg" crc="4095066567" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_2-crop-u15532.jpg" crc="90893674" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_3-crop-u15552.jpg" crc="4135582763" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_4.jpg" crc="4125793005" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_5-crop-u15592.jpg" crc="283976096" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_6.jpg" crc="368523190" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_7.jpg" crc="437644165" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_8.jpg" crc="3888271865" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_1-crop-u15398.jpg" crc="462249860" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_360x45.jpg" crc="124112968" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_5-crop-u15598.jpg" crc="4061612686" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_7-crop-u15638.jpg" crc="105746319" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_261x45.jpg" crc="457877725" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_4-crop-u15578.jpg" crc="4221318984" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_6-crop-u15618.jpg" crc="359236563" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="mclean_8-crop-u15658.jpg" crc="162939620" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_1-crop-u15699.jpg" crc="4100020909" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_3-crop-u15873.jpg" crc="214394330" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_5-crop-u15913.jpg" crc="4001143063" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_big-texan-steak-ranch-crop-u15933.jpg" crc="156903106" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_lighthouse-pinnacle60x45.jpg" crc="3928776781" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_2-crop-u15853.jpg" crc="78989617" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_4-crop-u15893.jpg" crc="162727448" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_helium-monument-crop-u15973.jpg" crc="313378451" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_cadillac-ranch60x45.jpg" crc="4234901412" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_wildflowers-crop-u16013.jpg" crc="4156785394" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_1.jpg" crc="502355623" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_2.jpg" crc="3784276313" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_3.jpg" crc="397977037" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_4.jpg" crc="4153127329" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_5.jpg" crc="529695402" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_helium-monument.jpg" crc="3886065946" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_big-texan-steak-ranch-crop-u15927.jpg" crc="4024951618" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_cadillac-ranch-crop-u15947.jpg" crc="3976576055" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_lighthouse-pinnacle-crop-u15987.jpg" crc="424711203" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="amarillo_wildflowers.jpg" crc="4156803812" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_2.jpg" crc="4080758457" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_midpoint.jpg" crc="4061841026" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_1.jpg" crc="4177125083" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_midpoint_cafe.jpg" crc="84098145" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_midpoint_cafe 2.jpg" crc="423725432" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_3.jpg" crc="349975153" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_2-crop-u16201.jpg" crc="3826756743" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_1-crop-u16075.jpg" crc="258737479" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_midpoint_cafe 2-crop-u16261.jpg" crc="4117136707" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_midpoint_cafe-crop-u16281.jpg" crc="419394194" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="adrian_3-crop-u16221.jpg" crc="4226219259" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_1-crop-u16361.jpg" crc="4146806043" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_3-crop-u16514.jpg" crc="4123435563" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_6-crop-u16554.jpg" crc="4266661480" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_8-crop-u16594.jpg" crc="150989533" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_2-crop-u16494.jpg" crc="4043917364" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_4-crop-u16534.jpg" crc="317765469" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_7-crop-u16574.jpg" crc="240752168" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_5-crop-u16627.jpg" crc="4114309029" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_1.jpg" crc="89875747" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_2.jpg" crc="4073769232" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_3.jpg" crc="3916673408" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_4-crop-u16528.jpg" crc="4253426318" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_6.jpg" crc="125511210" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_7.jpg" crc="4178016132" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_8.jpg" crc="4011361946" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="glenrio_5.jpg" crc="190183174" seo="true" ref="texas">
+      <caption webpage="texas" alt=""/>
+    </file>
+    <file name="u2199-6.png" crc="4256892669" ref="nouveau-mexique"/>
+    <file name="seal_of_newmexico.png" crc="373685227" seo="true" ref="nouveau-mexique:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="new_mexico_map.jpg" crc="23035095" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="francisco-vasquez-de-coronado.jpg" crc="3785531792" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="57bc8e6d3076a.png" crc="3834132081" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="57bc8e1543ec0.png" crc="3976288223" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_1-crop-u17092.jpg" crc="16569182" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_2-crop-u17252.jpg" crc="4050554765" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_3-crop-u17272.jpg" crc="298666460" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_teepeecurios_1-crop-u17312.jpg" crc="364431081" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_teepeecurios_2-crop-u17332.jpg" crc="3795339602" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_1-crop-u17232.jpg" crc="3795223369" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari-mountain-crop-u17352.jpg" crc="411695390" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_1.jpg" crc="3816713289" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_2.jpg" crc="3940854041" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_3-crop-u17266.jpg" crc="3865068945" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_teepeecurios_1-crop-u17306.jpg" crc="21331144" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_teepeecurios_2-crop-u17326.jpg" crc="173434368" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari_1-crop-u17226.jpg" crc="3794114525" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="tucumcari-mountain-crop-u17346.jpg" crc="4224924730" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santarosa1-crop-u17413.jpg" crc="4010945086" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santarosa2-crop-u17533.jpg" crc="3989158788" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santarosa3-crop-u17553.jpg" crc="3759149299" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-rosa4-crop-u17573.jpg" crc="528162077" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-rosa5-crop-u17593.jpg" crc="3975210289" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegas1cityhall-crop-u17680.jpg" crc="4084490008" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegas2-crop-u17700.jpg" crc="4075771215" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegas3.jpg" crc="402241982" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasfort union1.jpg" crc="336184440" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasfort union2-crop-u17760.jpg" crc="83207172" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasfort union3.jpg" crc="403096219" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegas-outdoors-crop-u17800.jpg" crc="3834089709" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasroughrider1.jpg" crc="215276291" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasroughrider2.jpg" crc="232399019" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santarosa1-crop-u17420.jpg" crc="4152412731" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santarosa3-crop-u17559.jpg" crc="4078962022" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-rosa5-crop-u17599.jpg" crc="146995968" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegas2-crop-u17706.jpg" crc="61733864" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasfort union3-crop-u17786.jpg" crc="4129861682" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasroughrider1-crop-u17826.jpg" crc="320557152" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santarosa2-crop-u17539.jpg" crc="4278518725" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-rosa4-crop-u17579.jpg" crc="3887188479" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegas1cityhall-crop-u17686.jpg" crc="430468248" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegas3-crop-u17726.jpg" crc="193774404" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasfort union2-crop-u17766.jpg" crc="530416552" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegas-outdoors-crop-u17806.jpg" crc="421762278" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="lasvegasroughrider2-crop-u17846.jpg" crc="206435823" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_1927-albuquerque-map-crop-u18104.jpg" crc="4015931839" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_3.jpg" crc="224173030" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa fe_historic-us66-sign.jpg" crc="143985742" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa fe_church-san-miguel.jpg" crc="380542094" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_guadalupe.jpg" crc="3902191368" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe-cathedral.jpg" crc="405390051" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_adobe_pueblo_revival-crop-u18124.jpg" crc="4033458309" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_2.jpg" crc="401795106" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_the-christmas-season-crop-u18204.jpg" crc="232887445" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_oldest-house-crop-u18184.jpg" crc="370647067" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_downtown-resized-crop-u18144.jpg" crc="98930359" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_4.jpg" crc="232447202" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_1.jpg" crc="81609983" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa_fe_tent-rocks-crop-u18064.jpg" crc="3781515270" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_1927-albuquerque-map-crop-u18110.jpg" crc="67492070" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_3-crop-u18401.jpg" crc="479700843" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_the-christmas-season60x46.jpg" crc="4134876051" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa fe_historic-us66-sign-crop-u18050.jpg" crc="3956263942" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_oldest-house60x45.jpg" crc="3976368572" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa fe_church-san-miguel-crop-u17889.jpg" crc="229230955" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_downtown-resized-crop-u18150.jpg" crc="3770260290" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_guadalupe-crop-u18170.jpg" crc="4170348913" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_4-crop-u18421.jpg" crc="224328435" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe-cathedral-crop-u18230.jpg" crc="258720718" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_1-crop-u18090.jpg" crc="121102184" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa-fe_adobe_pueblo_revival-crop-u18130.jpg" crc="265162455" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="santa_fe_tent-rocks60x45.jpg" crc="4154502010" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque_1.jpg" crc="3815997388" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque_valentinediner1-crop-u18905.jpg" crc="4179113622" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque_valentinediner2-crop-u18925.jpg" crc="483101615" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque_2.jpg" crc="517516984" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-01.jpg" crc="266166351" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-02.jpg" crc="4070590137" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-03.jpg" crc="195207959" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-04.jpg" crc="436006677" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-05-crop-u18760.jpg" crc="4028882197" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-06-crop-u18780.jpg" crc="279571932" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-07-crop-u18800.jpg" crc="3866635941" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-08-crop-u18820.jpg" crc="3841027460" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-09-crop-u18840.jpg" crc="37298122" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-breaking_bad.jpg" crc="198361764" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque_1-crop-u18498.jpg" crc="3804527737" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-04-crop-u18746.jpg" crc="133227471" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque_valentinediner1-crop-u18911.jpg" crc="4059624158" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-05-crop-u18766.jpg" crc="161505905" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque_valentinediner2-crop-u18931.jpg" crc="475554552" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-06-crop-u18786.jpg" crc="4216058051" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque_2-crop-u18666.jpg" crc="4095662640" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-0760x46.jpg" crc="4161193897" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-01-crop-u18686.jpg" crc="4147088780" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-0860x46.jpg" crc="4141334757" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-02-crop-u18706.jpg" crc="4068013569" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-09-crop-u18846.jpg" crc="100063187" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-03-crop-u18726.jpg" crc="248877099" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="albuquerque-breaking_bad-crop-u18866.jpg" crc="252029993" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="acoma pueblo1.jpg" crc="263142338" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="acoma pueblo3.jpg" crc="3863354246" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="acoma pueblo2.jpg" crc="3826570940" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="acoma pueblo4.jpg" crc="3959478403" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants1.jpg" crc="3759308253" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants2.jpg" crc="220393961" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants6-crop-u19248.jpg" crc="344218637" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants7-crop-u19268.jpg" crc="4168050643" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants8.jpg" crc="3860094241" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants3-crop-u19135.jpg" crc="275624335" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants4.jpg" crc="4074510054" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants5-crop-u19175.jpg" crc="4235763683" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants1-crop-u19029.jpg" crc="531217483" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants6-crop-u19254.jpg" crc="3838226833" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants8-crop-u19294.jpg" crc="4197041993" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants4-crop-u19161.jpg" crc="4003417878" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants2-crop-u19212.jpg" crc="3999304096" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants7-crop-u19274.jpg" crc="247061010" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants3-crop-u19141.jpg" crc="206825416" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="grants5-crop-u19181.jpg" crc="243016363" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallup1-crop-u19573.jpg" crc="183766044" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallup3-crop-u19701.jpg" crc="133595627" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupantelopecanyon3-crop-u19741.jpg" crc="77576567" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="galluplacpowell2-crop-u19933.jpg" crc="525485751" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley560x45.jpg" crc="72881504" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley3-crop-u19801.jpg" crc="110567585" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallup2-crop-u19971.jpg" crc="4104811183" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupantelopecanyon2-crop-u19721.jpg" crc="4060359795" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="galluplacpowell-crop-u19761.jpg" crc="3762097868" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley2-crop-u19864.jpg" crc="211554806" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley1-crop-u19781.jpg" crc="4121595541" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley4-crop-u19821.jpg" crc="4257368717" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallup1.jpg" crc="110955194" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallup2.jpg" crc="244113352" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallup3-crop-u19695.jpg" crc="3900264662" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupantelopecanyon2.jpg" crc="350179905" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupantelopecanyon3-crop-u19735.jpg" crc="315962439" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="galluplacpowell-crop-u19755.jpg" crc="4216084558" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="galluplacpowell2-crop-u19927.jpg" crc="335647898" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley2-crop-u19858.jpg" crc="153021242" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley5-crop-u19878.jpg" crc="202901235" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley1-crop-u19775.jpg" crc="4039574461" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley3-crop-u19795.jpg" crc="4180674449" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="gallupmonumentvalley4.jpg" crc="4015567434" seo="true" ref="nouveau-mexique">
+      <caption webpage="nouveau-mexique" alt=""/>
+    </file>
+    <file name="u2202-4.png" crc="323537187" ref="arizona"/>
+    <file name="seal_of_arizona.png" crc="55977111" seo="true" ref="arizona:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="arizona_map.jpg" crc="4234590600" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="57bc8fb2a3fd7.png" crc="114684435" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="57bc8fed0c56e.png" crc="273086034" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_painteddesert1-crop-u20328.jpg" crc="172216747" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_petrifiedforest160x45.jpg" crc="4117778075" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_petrifiedforest3-crop-u20408.jpg" crc="4265315037" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_dinosaurs-crop-u20168.jpg" crc="3977238002" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_painteddesert2-crop-u20348.jpg" crc="285113426" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_petrifiedforest260x45.jpg" crc="3821234406" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_wigwammotel60x45.jpg" crc="89327335" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_old-studebaker-crop-u20308.jpg" crc="3811699848" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_painteddesert1.jpg" crc="361464566" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_painteddesert2.jpg" crc="4192683603" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_petrifiedforest1.jpg" crc="349386657" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_petrifiedforest2.jpg" crc="4073379291" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_petrifiedforest3.jpg" crc="165154617" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_wigwammotel.jpg" crc="433691362" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_dinosaurs.jpg" crc="335257469" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="holbrook_old-studebaker.jpg" crc="3910013470" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow1-crop-u20528.jpg" crc="418517052" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslown-standing-on-the-corner-crop-u20741.jpg" crc="285570495" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow2-crop-u20646.jpg" crc="16692017" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow-eagles - take it easy.jpg" crc="405873236" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow-meteorcrater1.jpg" crc="3928743004" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow-meteorcrater2.jpg" crc="4139388182" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow-année60-crop-u20776.jpg" crc="3821589035" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow160x45.jpg" crc="33978932" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslown-standing-on-the-corner-crop-u20747.jpg" crc="512830807" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow2-crop-u20652.jpg" crc="4001693412" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow-eagles - take it easy-crop-u20672.jpg" crc="147840055" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow-meteorcrater1-crop-u20692.jpg" crc="4030067191" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow-meteorcrater2-crop-u20712.jpg" crc="4005747307" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="winslow-année60-crop-u20782.jpg" crc="443589787" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-map-route66-crop-u20978.jpg" crc="4029509078" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-grand-canyon-crop-u20827.jpg" crc="3979314231" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-lockett-meadow-crop-u20958.jpg" crc="4259917641" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-monument-valley-crop-u20998.jpg" crc="3969416216" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-sunset-crater-crop-u21018.jpg" crc="242821677" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-map-route66-crop-u20972.jpg" crc="253025439" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-grand-canyon-crop-u20831.jpg" crc="4107190407" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-lockett-meadow-crop-u20952.jpg" crc="28544801" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-monument-valley.jpg" crc="38735028" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="flagstaff-sunset-crater.jpg" crc="3841764671" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-route-66-27-crop-u21389.jpg" crc="4015892674" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-bennetts.jpg" crc="4173299396" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-map-crop-u21329.jpg" crc="103165885" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-canyonmotelrvpark-crop-u21269.jpg" crc="311042519" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-bel-aire-crop-u21059.jpg" crc="3816688094" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-budget-host-crop-u21249.jpg" crc="3861109398" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-highlander-crop-u21289.jpg" crc="288852045" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-highlander-motel-crop-u21309.jpg" crc="377872734" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-red-cross-1917.jpg" crc="4058974647" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-red-cross-garage.jpg" crc="209763855" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-westerner-crop-u21409.jpg" crc="425622059" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-westerner-motel-crop-u21429.jpg" crc="47596250" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-route-66-27-crop-u21395.jpg" crc="3861080896" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-map-crop-u21335.jpg" crc="533053307" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-bel-aire-crop-u21055.jpg" crc="3897998151" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-highlander-crop-u21295.jpg" crc="326319126" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-red-cross-1917-crop-u21355.jpg" crc="3823035148" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-westerner-crop-u21415.jpg" crc="20572736" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-bennetts-crop-u21235.jpg" crc="344660605" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-canyonmotelrvpark60x45.jpg" crc="3836024817" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-budget-host-crop-u21255.jpg" crc="528684498" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-highlander-motel-crop-u21315.jpg" crc="3865702643" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-red-cross-garage-crop-u21375.jpg" crc="3836117993" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="williams-westerner-motel-crop-u21435.jpg" crc="438242642" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman1-crop-u21550.jpg" crc="48892698" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman4.jpg" crc="3783778604" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman7.jpg" crc="4236193887" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman11-crop-u21911.jpg" crc="523862580" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman14-crop-u21971.jpg" crc="289162904" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman2-crop-u22052.jpg" crc="105962903" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman5-crop-u21811.jpg" crc="163027780" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman9-crop-u21871.jpg" crc="3977754313" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman12-crop-u21931.jpg" crc="2999985" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman-angeldelgadillo-crop-u21991.jpg" crc="329439422" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman3-crop-u21771.jpg" crc="254587596" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman6-crop-u22080.jpg" crc="355273561" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman10-crop-u21891.jpg" crc="15341696" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman13-crop-u22108.jpg" crc="491503032" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman-map60x45.jpg" crc="185258838" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman1.jpg" crc="3838387491" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman2.jpg" crc="4223570091" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman3.jpg" crc="401186688" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman5.jpg" crc="250919775" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman6.jpg" crc="259608320" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman9.jpg" crc="297077499" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman10.jpg" crc="3849973407" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman11.jpg" crc="4211709674" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman12.jpg" crc="3782802405" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman13.jpg" crc="365230780" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman14.jpg" crc="3900340695" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman-angeldelgadillo-crop-u21985.jpg" crc="517335565" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seligman-map-crop-u22005.jpg" crc="192534217" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry-map-crop-u22397.jpg" crc="430430037" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry-general-store-crop-u22377.jpg" crc="129813055" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry3.jpg" crc="3868081420" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry2-crop-u22277.jpg" crc="4048279597" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry1-crop-u22135.jpg" crc="3809820684" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry4.jpg" crc="457546273" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry5.jpg" crc="108228055" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry6.jpg" crc="331504759" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry-map-crop-u22403.jpg" crc="71816175" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry-general-store-crop-u22383.jpg" crc="482657698" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry3-crop-u22303.jpg" crc="4079766624" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry2-crop-u22283.jpg" crc="212174125" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry1-crop-u22131.jpg" crc="246168333" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry4-crop-u22323.jpg" crc="285703694" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry5-crop-u22343.jpg" crc="217162837" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="hackberry6-crop-u22363.jpg" crc="4234651659" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="lasvegas-nevada.jpg" crc="245518723" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman1-crop-u22490.jpg" crc="3862191300" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman2-crop-u22646.jpg" crc="288303944" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman3-crop-u22666.jpg" crc="4071305728" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman4-crop-u22686.jpg" crc="5721262" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman5-crop-u22706.jpg" crc="3892958720" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman6-crop-u22726.jpg" crc="3922715625" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman7.jpg" crc="3963449126" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman8.jpg" crc="4071746219" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="oatman9.jpg" crc="340393797" seo="true" ref="arizona">
+      <caption webpage="arizona" alt=""/>
+    </file>
+    <file name="seal_of_california.png" crc="223296546" seo="true" ref="californie:introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="u2205-4.png" crc="4092662699" ref="californie"/>
+    <file name="california_map.jpg" crc="3868549273" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="57bc904b08803.png" crc="427396754" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mojave_desert_needles-crop-u22910.jpg" crc="4057396338" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mojave_desert_needles_route_66_mural_6-crop-u23082.jpg" crc="529653689" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="needles1-crop-u23122.jpg" crc="4273002866" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="needles-topockgorge60x45.jpg" crc="130820528" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mojave_desert_needles_route_66_mural_2-crop-u23062.jpg" crc="333613737" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mojave_desert_san_bernardino_needles_wagon-crop-u23102.jpg" crc="277410516" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="needles2-crop-u23142.jpg" crc="374461833" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="needles-map-crop-u23162.jpg" crc="455882507" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mojave_desert_needles.jpg" crc="494915738" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mojave_desert_needles_route_66_mural_2-crop-u23056.jpg" crc="3918669956" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mojave_desert_needles_route_66_mural_6-crop-u23076.jpg" crc="365872959" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mojave_desert_san_bernardino_needles_wagon-crop-u23096.jpg" crc="337609839" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="needles1.jpg" crc="4144799850" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="needles2.jpg" crc="500347710" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="needles-topockgorge-crop-u23241.jpg" crc="3958763723" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="needles-map-crop-u23156.jpg" crc="486419184" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-roys-cafe-motel1.jpg" crc="122339382" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-roys-cafe-motel-crop-u23462.jpg" crc="277431900" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-1-crop-u23274.jpg" crc="189683520" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-crater-crop-u23402.jpg" crc="154594534" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-crater2-crop-u23422.jpg" crc="4149891036" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-map-crop-u23442.jpg" crc="4207858450" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-160x45.jpg" crc="4179368857" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-crater2-crop-u23428.jpg" crc="3961578067" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-roys-cafe-motel-crop-u23468.jpg" crc="4098838470" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-crater-crop-u23408.jpg" crc="14693526" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="amboy-map-crop-u23448.jpg" crc="4092630776" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-bagdad-cafe-crop-u23545.jpg" crc="509824301" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-bagdad-cafe160x45.jpg" crc="26144897" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-bagdad-cafe2-crop-u23696.jpg" crc="447132986" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-bagdad-cafe3-crop-u23716.jpg" crc="227097590" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-springs-map-crop-u23736.jpg" crc="3924337079" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-bagdad-cafe-crop-u23549.jpg" crc="116633727" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-bagdad-cafe1-crop-u23670.jpg" crc="469668898" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-bagdad-cafe2-crop-u23690.jpg" crc="494804396" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-bagdad-cafe3-crop-u23710.jpg" crc="3888025502" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="newberry-springs-map-crop-u23730.jpg" crc="495963180" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow2.jpg" crc="316560102" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow.jpg" crc="3841655862" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow-bottletreeranch-crop-u24030.jpg" crc="4178967920" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow1.jpg" crc="115375777" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow3-crop-u23970.jpg" crc="4244866140" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow4-crop-u23990.jpg" crc="211471867" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow5-crop-u24010.jpg" crc="3876412332" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow-map-crop-u24050.jpg" crc="201560886" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow-bottletreeranch60x45.jpg" crc="3873280151" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow3.jpg" crc="3835341572" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow5-crop-u24016.jpg" crc="236386348" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow-crop-u24110.jpg" crc="3803874130" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow1-crop-u23819.jpg" crc="3978349314" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow4-crop-u23996.jpg" crc="109155982" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="barstow-map-crop-u24056.jpg" crc="475187062" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="victorville-oldtown-gateway.jpg" crc="262852140" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="580b585b2edbce24c47b2cfc.png" crc="257607681" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="580b585b2edbce24c47b2cff.png" crc="172045452" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="victorville-musee-route-66.jpg" crc="335016343" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="victorville-california-route66-crop-u25547.jpg" crc="3929621295" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="cajon pass1.jpg" crc="4128042630" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="pickup oldtimer2.png" crc="3804602809" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="san-bernardino_mcdonalds-museum.jpg" crc="3775202703" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="mcdonalds.png" crc="98768275" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="california.png" crc="328827220" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="la-crop-u26479.jpg" crc="4185266564" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="la-1926-terminus-crop-u26597.jpg" crc="4174316919" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="la-terminus1-crop-u26617.jpg" crc="4010942381" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="la-terminus2-crop-u26637.jpg" crc="312374177" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="santa monica pier 2.jpg" crc="3912520424" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="santa-monica-pier-crop-u26677.jpg" crc="4274261443" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="la-crop-u26466.jpg" crc="258794891" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="la-1926-terminus-crop-u26603.jpg" crc="3895103698" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="la-terminus1-crop-u26623.jpg" crc="283816334" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="la-terminus2-crop-u26643.jpg" crc="4294235004" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="santa monica pier 2-crop-u26663.jpg" crc="357822172" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="santa-monica-pier-crop-u26683.jpg" crc="4053243960" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="santa monica.png" crc="4217354063" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="route 66s.jpg" crc="4177171807" seo="true" ref="californie">
+      <caption webpage="californie" alt=""/>
+      <caption webpage="californie" alt=""/>
+    </file>
+    <file name="u2316-4.png" crc="3901756526" ref="les-choix"/>
+    <file name="u2319-4.png" crc="4200213771" ref="les-p-tits-mots"/>
+    <file name="u4856-4.png" crc="140657806" ref="introduction"/>
+    <file name="27-rue-jacob3-crop-u4851.jpg" crc="4185253163" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="hôtel d-york-crop-u4849.jpg" crc="166828075" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="plaque_traite_de_paris.png" crc="4054441571" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="david_hartley.jpg" crc="3827430719" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="franklin_benjamin-crop-u4843.jpg" crc="3844958546" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="john_adams.jpg" crc="4270041309" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="john_jay.jpg" crc="58845587" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="27-rue-jacob3-crop-u4833.jpg" crc="3773661128" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="hôtel d-york-crop-u4827.jpg" crc="510090877" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="plaque_traite_de_paris-crop-u4831.png" crc="4253356775" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="david_hartley-crop-u4835.jpg" crc="4009366035" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="franklin_benjamin-crop-u4825.jpg" crc="4096963171" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="john_adams-crop-u4823.jpg" crc="3887121774" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="carte_route66-crop-u6520.jpg" crc="502350266" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="dust_bowl-crop-u6629.jpg" crc="451831546" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="carte_route66-crop-u6515.jpg" crc="477883705" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="dust_bowl-crop-u6623.jpg" crc="90135377" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="trame.png" crc="394760586" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route66_californie.png" crc="426969906" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route66_arizona.png" crc="531706295" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route66_newmexico.png" crc="85836751" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route66_texas.png" crc="241243876" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route66_oklahoma.png" crc="339238388" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route66_kansas.png" crc="425380342" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route66_missouri.png" crc="4051674597" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route66_illinois.png" crc="4030070190" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="meteothermo.png" crc="4158559997" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="carte-usa-crop-u4854.jpg" crc="3883318890" seo="true" ref="introduction">
+      <caption webpage="introduction" alt=""/>
+    </file>
+    <file name="route-66_2-crop-u8848.jpg" crc="101151184" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_3-crop-u8979.jpg" crc="530090057" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_4-crop-u8999.jpg" crc="4215667696" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_5-crop-u9019.jpg" crc="4013959582" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_6-crop-u9039.jpg" crc="4104484393" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_7-crop-u9059.jpg" crc="4254278869" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_8-crop-u9079.jpg" crc="4083767415" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_9-crop-u9099.jpg" crc="439449049" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_10-crop-u9119.jpg" crc="190389304" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="route-66_1-crop-u9139.jpg" crc="229275630" seo="true" ref="creer-un-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="creer-un-compte:modifier-mon-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="creer-un-compte:modifier-mon-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="creer-un-compte:modifier-mon-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="creer-un-compte:modifier-mon-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="creer-un-compte:modifier-mon-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="creer-un-compte:modifier-mon-compte">
+      <caption webpage="creer-un-compte" alt=""/>
+    </file>
+    <file name="cadillac-convertible-coupe.png" crc="392885808" seo="true" ref="confirmation-d-inscription">
+      <caption webpage="confirmation-d-inscription" alt=""/>
+    </file>
+    <file name="u27481-4.png" crc="470607444" ref="index"/>
+    <file name="route-66_2-crop-u27527.jpg" crc="4241498231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_1-crop-u27531.jpg" crc="3800257709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_3-crop-u27533.jpg" crc="435809439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_4-crop-u27517.jpg" crc="394381852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_5-crop-u27525.jpg" crc="57407660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_6-crop-u27519.jpg" crc="4040691667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_7-crop-u27521.jpg" crc="4034435085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_8-crop-u27529.jpg" crc="116127794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_9-crop-u27535.jpg" crc="471300775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route-66_10-crop-u27523.jpg" crc="444608313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="accueil.html" crc="3828692415" seo="true" mt="1547589025723" redirect="true"/>
+  <file name="les-etats.html" crc="259430740" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="les-cartes.html" crc="385025093" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="nous-suivre.html" crc="346330623" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="l-organisation.html" crc="16445128" seo="true" mt="1547592824963" redirect="true"/>
+  <file name="s-identifier.html" crc="533064367" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="illinois.html" crc="48797653" seo="true" mt="1547589024494" redirect="true"/>
+  <file name="missouri.html" crc="3883527433" seo="true" mt="1547589017405" redirect="true"/>
+  <file name="kansas.html" crc="37561609" seo="true" mt="1547589017156" redirect="true"/>
+  <file name="oklahoma.html" crc="421663216" seo="true" mt="1547589016905" redirect="true"/>
+  <file name="texas.html" crc="4118768173" seo="true" mt="1547589016655" redirect="true"/>
+  <file name="nouveau-mexique.html" crc="3961155271" seo="true" mt="1547589016405" redirect="true"/>
+  <file name="arizona.html" crc="431579241" seo="true" mt="1547589016155" redirect="true"/>
+  <file name="californie.html" crc="3929347595" seo="true" mt="1547589015912" redirect="true"/>
+  <file name="les-choix.html" crc="3760243784" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="les-p-tits-mots.html" crc="3787560765" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="introduction.html" crc="4131839106" seo="true" mt="1547589019521" redirect="true"/>
+  <file name="creer-un-compte.html" crc="3826892831" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="modifier-mon-compte.html" crc="442486857" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="confirmation-d-inscription.html" crc="3824083486" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="index.html" crc="149447965" seo="true" mt="1547589018022" redirect="true"/>
+  <file name="ouverture_session.html" crc="455677393" seo="true" mt="1547589018022" redirect="true"/>
+</manifest>

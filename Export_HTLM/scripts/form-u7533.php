@@ -103,6 +103,27 @@ $form = array(
 			'errors' => array(
 			)
 		),
+<<<<<<< HEAD
+<<<<<<< HEAD
+		'custom_U8131' => array(
+			'order' => 5,
+			'type' => 'checkboxgroup',
+			'label' => 'Vous participer à l\'aventure',
+			'required' => true,
+			'optionItems' => array(
+				'Seul',
+				'Avec votre conjoint',
+				'Avec un(e) ami(e)'
+			),
+			'errors' => array(
+				'required' => 'Le champ « Vous participer à l\'aventure » est obligatoire.',
+				'format' => 'Le champ « Vous participer à l\'aventure » contient une valeur non valide.'
+			)
+		),
+=======
+>>>>>>> parent of d948e2d... Première modification
+=======
+>>>>>>> parent of d948e2d... Première modification
 		'custom_U7807' => array(
 			'order' => 2,
 			'type' => 'checkboxgroup',
@@ -117,6 +138,11 @@ $form = array(
 				'required' => 'Le champ « Vous êtes la pour » est obligatoire.',
 				'format' => 'Le champ « Vous êtes la pour » contient une valeur non valide.'
 			)
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of d948e2d... Première modification
 		),
 		'custom_U8131' => array(
 			'order' => 5,
@@ -132,6 +158,10 @@ $form = array(
 				'required' => 'Le champ « Vous participer à l\'aventure » est obligatoire.',
 				'format' => 'Le champ « Vous participer à l\'aventure » contient une valeur non valide.'
 			)
+<<<<<<< HEAD
+>>>>>>> parent of d948e2d... Première modification
+=======
+>>>>>>> parent of d948e2d... Première modification
 		)
 	)
 );
